@@ -35,9 +35,16 @@ Git | GitHub | Docker | Jupyter | Colab (A100 GPU) | VS Code
 
 ##  Projects  
 
-- 🔬 [**TransPolymer**](https://github.com/PardivReddy/Transpolymer-PS) → AI-powered polymer property prediction with custom Transformers + full-stack web app.  
-- ⚖️ **Nyayaanumana** → LegalTech NLP project for analyzing and predicting outcomes of legal cases.  
-- 🎯 **AI Placement Mentor** → End-to-end simulation of the placement process (aptitude, coding, technical, HR).  
+### 🔬 [TransPolymer](https://github.com/PardivReddy/Transpolymer-PS)  
+TransPolymer is an **AI-powered platform for polymer property prediction**.  
+It leverages a **custom Transformer trained on polymer SMILES** for property prediction, integrated with a **full-stack web app** (React.js frontend, FastAPI backend, MongoDB database).  
+This project bridges **AI research and material science**, enabling scientists to analyze and predict polymer properties efficiently.  
+
+### ⚖️ Nyayaanumana  
+AI-driven **LegalTech NLP project** designed to process and analyze legal documents, assisting in predicting outcomes and improving legal research efficiency.  
+
+### 🎯 AI Placement Mentor  
+A simulation of the **campus placement process**, covering Aptitude, Coding (LeetCode-style), Technical Interviews, and HR rounds, aimed at helping students prepare for placements.  
 
 ---
 
