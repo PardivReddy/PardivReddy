@@ -4,16 +4,16 @@ Passionate about building intelligent systems that combine research with real-wo
 
 ---
 
-## 🔹 About Me  
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering (CSE)** at **Keshav Memorial College of Engineering (KMCE)**.  
-- 💡 Skilled in **Machine Learning, Deep Learning, and Natural Language Processing (NLP)** with custom tokenizers, Transformers, and regression models.  
-- 🌐 Experienced in **Full-Stack development** (React, FastAPI, Express.js, Node.js, MongoDB).  
-- 📊 Hands-on with **MLOps, Model Training on GPUs, Data Pipelines, and API deployment**.  
-- 🏆 Strong foundation in **Data Structures & Algorithms** (LeetCode, problem-solving).  
+##  About Me  
+-  Pursuing **B.Tech in Computer Science & Engineering (CSE)** at **Keshav Memorial College of Engineering (KMCE)**.  
+-  Skilled in **Machine Learning, Deep Learning, and Natural Language Processing (NLP)** with custom tokenizers, Transformers, and regression models.  
+-  Experienced in **Full-Stack development** (React, FastAPI, Express.js, Node.js, MongoDB).  
+-  Hands-on with **MLOps, Model Training on GPUs, Data Pipelines, and API deployment**.  
+-  Strong foundation in **Data Structures & Algorithms** (LeetCode, problem-solving).  
 
 ---
 
-## 🔹 Technical Skills  
+##  Technical Skills  
 
 ### 💻 Programming & Scripting  
 `Python` | `Java` | `JavaScript` | `C++` | `SQL` | `Bash`  
@@ -33,7 +33,7 @@ Git | GitHub | Docker | Jupyter | Colab (A100 GPU) | VS Code
 
 ---
 
-## 🔹 Projects  
+##  Projects  
 
 - 🔬 [**TransPolymer**](https://github.com/PardivReddy/Transpolymer-PS) → AI-powered polymer property prediction with custom Transformers + full-stack web app.  
 - ⚖️ **Nyayaanumana** → LegalTech NLP project for analyzing and predicting outcomes of legal cases.  
@@ -41,7 +41,7 @@ Git | GitHub | Docker | Jupyter | Colab (A100 GPU) | VS Code
 
 ---
 
-## 🔹 Achievements & Highlights  
+##  Achievements & Highlights  
 - ✅ Designed and trained **custom Transformer architectures** with tokenizer pipelines.  
 - ✅ Deployed **full ML applications** with frontend + backend + API integration.  
 - ✅ Strong experience in **DSA problem-solving** for coding interviews.  
