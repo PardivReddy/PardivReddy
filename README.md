@@ -1,11 +1,10 @@
 # 👋 Hi, I’m Pardiv Reddy  
-
 **Computer Science & Engineering Student | AI/ML Engineer | Full-Stack Developer**  
 Passionate about building intelligent systems that combine research with real-world applications.  
 
 ---
 
-##  About Me  
+## 🔹 About Me  
 - 🎓 Pursuing **B.Tech in Computer Science & Engineering (CSE)** at **Keshav Memorial College of Engineering (KMCE)**.  
 - 💡 Skilled in **Machine Learning, Deep Learning, and Natural Language Processing (NLP)** with custom tokenizers, Transformers, and regression models.  
 - 🌐 Experienced in **Full-Stack development** (React, FastAPI, Express.js, Node.js, MongoDB).  
@@ -14,9 +13,9 @@ Passionate about building intelligent systems that combine research with real-wo
 
 ---
 
-##  Technical Skills  
+## 🔹 Technical Skills  
 
-###  Programming & Scripting  
+### 💻 Programming & Scripting  
 `Python` | `Java` | `JavaScript` | `C++` | `SQL` | `Bash`  
 
 ### ⚙️ Machine Learning & AI  
@@ -24,25 +23,25 @@ Passionate about building intelligent systems that combine research with real-wo
 - **Specialization:** Transformers, NLP, Custom Tokenizers, Regression Models  
 - **Applications:** ML for Chemistry, Legal Document Analysis, AI-based Interviews  
 
-###  Full-Stack Development  
+### 🌐 Full-Stack Development  
 - **Frontend:** React.js, TailwindCSS, HTML5, CSS3  
 - **Backend:** FastAPI, Express.js, Node.js  
 - **Database:** MongoDB, MySQL  
 
-###  Tools & DevOps  
+### ☁️ Tools & DevOps  
 Git | GitHub | Docker | Jupyter | Colab (A100 GPU) | VS Code  
 
 ---
 
-##  Projects  
+## 🔹 Projects  
 
-- 🔬 **TransPolymer** → AI-powered polymer property prediction with custom Transformers + full-stack web app.  
+- 🔬 [**TransPolymer**](https://github.com/PardivReddy/Transpolymer-PS) → AI-powered polymer property prediction with custom Transformers + full-stack web app.  
 - ⚖️ **Nyayaanumana** → LegalTech NLP project for analyzing and predicting outcomes of legal cases.  
 - 🎯 **AI Placement Mentor** → End-to-end simulation of the placement process (aptitude, coding, technical, HR).  
 
 ---
 
-##  Achievements & Highlights  
+## 🔹 Achievements & Highlights  
 - ✅ Designed and trained **custom Transformer architectures** with tokenizer pipelines.  
 - ✅ Deployed **full ML applications** with frontend + backend + API integration.  
 - ✅ Strong experience in **DSA problem-solving** for coding interviews.  
