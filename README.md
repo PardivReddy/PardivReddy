@@ -16,7 +16,7 @@ Passionate about building intelligent systems that combine research with real-wo
 ##  Technical Skills  
 
 ### 💻 Programming & Scripting  
-`Python` | `Java` | `JavaScript` | `C++` | `SQL` | `Bash`  
+`Python` | `Java` | `c` | `HTML` | `SQL` | `css` | `pytorch` 
 
 ### ⚙️ Machine Learning & AI  
 - **Frameworks:** PyTorch, TensorFlow, Scikit-learn, HuggingFace  
