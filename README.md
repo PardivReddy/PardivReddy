@@ -67,7 +67,8 @@ A simulation of the **campus placement process**, covering Aptitude, Coding (Lee
 
 ## 📫 Let’s Connect  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pardivreddy0410)  
-- 📧 **pardivreddy0410@gmail.com**  
+- 📧 **pardivreddy0410@gmail.com**
+- 📞 **+91 9492717270**
 
 ---
 
