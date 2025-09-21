@@ -50,10 +50,7 @@ It leverages a **custom Transformer trained on polymer SMILES** for property pre
 This project bridges **AI research and material science**, enabling scientists to analyze and predict polymer properties efficiently.  
 
 ### ⚖️ Nyayaanumana  
-AI-driven **LegalTech NLP project** designed to process and analyze legal documents, assisting in predicting outcomes and improving legal research efficiency.  
-
-### 🎯 AI Placement Mentor  
-A simulation of the **campus placement process**, covering Aptitude, Coding (LeetCode-style), Technical Interviews, and HR rounds, aimed at helping students prepare for placements.  
+AI-driven **LegalTech NLP project** designed to process and analyze legal documents, assisting in predicting outcomes and improving legal research efficiency.    
 
 ---
 
