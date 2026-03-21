@@ -46,7 +46,8 @@ Git | GitHub | Docker | Jupyter | Colab (A100 GPU) | VS Code | Vercel
 
 ##  Projects  
 
-### 🔬 TransPolymer — AI-Powered Polymer Property Prediction
+### 🔬 TransPolymer — https://github.com/PardivReddy/Transpolymer-PS
+> AI-Powered Polymer Property Prediction
 > Transformer-based platform for predicting chemical polymer properties from SMILES notation
 
 **Key Highlights:**
@@ -60,7 +61,8 @@ Git | GitHub | Docker | Jupyter | Colab (A100 GPU) | VS Code | Vercel
 
 ---
 
-### ⚖️ Court-MOE (Nyayaanumana) — Legal Judgment Prediction System
+### ⚖️ Court-MOE (LegalTech) — https://github.com/PardivReddy/LegalTech
+>Legal base judgement prediction
 > MoE-based NLP system for predicting Indian legal judgments from case metadata
 
 **Key Highlights:**
@@ -75,7 +77,8 @@ Git | GitHub | Docker | Jupyter | Colab (A100 GPU) | VS Code | Vercel
 
 ---
 
-### 📄 DocIntel — Document Intelligence System
+### 📄 DocIntel —https://github.com/PardivReddy/DocIntel
+>Document Intelligence System
 > RAG-based document processing and question answering system for intelligent PDF understanding
 
 **Key Highlights:**
