@@ -8,8 +8,8 @@ Passionate about building intelligent systems that combine research with real-wo
 -  Pursuing **B.Tech in Computer Science & Engineering (CSE)** at **Keshav Memorial College of Engineering (KMCE)**.  
 -  Skilled in **Machine Learning, Deep Learning, and Natural Language Processing (NLP)** with custom tokenizers, Transformers, and regression models.  
 -  Experienced in **Full-Stack development** (React, FastAPI, Express.js, Node.js, MongoDB).  
--  Hands-on with **MLOps, Model Training on GPUs, Data Pipelines, and API deployment**.  
--  Strong foundation in **Data Structures & Algorithms** (LeetCode, problem-solving).  
+-  Strong focus on AI Research + Practical Systems (MoE, RAG, Transformers).  
+-  Solved 170+ DSA problems on LeetCode with strong problem-solving skills.  
 
 ---
 
@@ -30,7 +30,9 @@ Passionate about building intelligent systems that combine research with real-wo
 ### ⚙️ Machine Learning & AI  
 - **Frameworks:** PyTorch, TensorFlow, Scikit-learn, HuggingFace  
 - **Specialization:** Transformers, NLP, Custom Tokenizers, Regression Models  
-- **Applications:** ML for Chemistry, Legal Document Analysis, AI-based Interviews  
+- **Applications:** Polymer Property Prediction
+Legal Judgment Prediction
+Document Intelligence Systems
 
 ### 🌐 Full-Stack Development  
 - **Frontend:** React.js, TailwindCSS, HTML5, CSS3  
@@ -38,19 +40,52 @@ Passionate about building intelligent systems that combine research with real-wo
 - **Database:** MongoDB, MySQL  
 
 ### ☁️ Tools & DevOps  
-Git | GitHub | Docker | Jupyter | Colab (A100 GPU) | VS Code  
+Git | GitHub | Docker | Jupyter | Colab (A100 GPU) | VS Code | Vercel
 
 ---
 
 ##  Projects  
 
-### 🔬 [TransPolymer](https://github.com/PardivReddy/Transpolymer-PS)  
-TransPolymer is an **AI-powered platform for polymer property prediction**.  
-It leverages a **custom Transformer trained on polymer SMILES** for property prediction, integrated with a **full-stack web app** (React.js frontend, FastAPI backend, MongoDB database).  
-This project bridges **AI research and material science**, enabling scientists to analyze and predict polymer properties efficiently.  
+### 🔬 TransPolymer — AI-Powered Polymer Property Prediction
+> Transformer-based platform for predicting chemical polymer properties from SMILES notation
 
-### ⚖️ Nyayaanumana  
-AI-driven **LegalTech NLP project** designed to process and analyze legal documents, assisting in predicting outcomes and improving legal research efficiency.    
+**Key Highlights:**
+- Designed a custom BPE tokenizer + MLM-based Transformer trained on polymer datasets
+- Built 6 regression heads for simultaneous multi-property prediction
+- Achieved **~85% prediction accuracy** across diverse polymer datasets
+- Developed full-stack application with real-time inference for polymer scientists
+
+**Tech Stack:**
+`PyTorch` `Hugging Face Transformers` `FastAPI` `React` `MongoDB` `Vercel`
+
+---
+
+### ⚖️ Court-MOE (Nyayaanumana) — Legal Judgment Prediction System
+> MoE-based NLP system for predicting Indian legal judgments from case metadata
+
+**Key Highlights:**
+- Architected a metadata-aware Mixture of Experts (MoE) routing system
+- Trained 5 specialized expert models using AMP, EMA, and MixUp techniques
+- Achieved **~61% classification accuracy** on Indian legal datasets
+- Built end-to-end pipeline from raw PDF → tokenization → prediction
+- Deployed interactive web interface for legal professionals
+
+**Tech Stack:**
+`PyTorch` `Transformers` `MoE` `FastAPI` `React` `Vercel`
+
+---
+
+### 📄 DocIntel — Document Intelligence System
+> RAG-based document processing and question answering system for intelligent PDF understanding
+
+**Key Highlights:**
+- Built complete PDF ingestion → chunking → embedding pipeline
+- Implemented semantic search using FAISS for fast, accurate retrieval
+- Integrated Groq LLM for low-latency, context-aware question answering
+- Designed for real-time document understanding at scale
+
+**Tech Stack:**
+`Python` `LangChain` `FAISS` `Groq LLM` `RAG` `FastAPI` `React`
 
 ---
 
